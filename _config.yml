@@ -1,0 +1,4 @@
+name: blogging-blog
+markdown: redcarpet
+pygments: true
+future: false
