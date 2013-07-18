@@ -5,7 +5,7 @@ date:   2013-07-15
 categories: crossfit workout
 ---
 
-[workout-link]
+[today's workout][workout-link]
 
 Every 4min for 3 sets:
 A. Front Squat 12-6-2
