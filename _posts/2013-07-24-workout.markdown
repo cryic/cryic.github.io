@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "workout"
+date:   2013-07-24
+categories: crossfit workout
+---
+
+[today's workout][workout-link]
+
+Every 2min for 5 rounds:
+
+A. Hang Power Snatch x5
+
++
+
+15min AMRAP:
+
+20m Farmer's Walk
+
+20 Hand Release Pushups
+
+45sec FLR
+
+\#\#\#\#\#
+
+95lbs.
+
++
+
+5rds @ 32kg
+
+[workout-link]: http://crossfitlic.com/2013/07/23/wednesday-july-24-2013/ 
