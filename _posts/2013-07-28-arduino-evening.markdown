@@ -28,7 +28,7 @@ of a blinking led.
 
 {% highlight c++ linenos %}
 // start blink vars
-int sensorPin = A0;    // input pin for the potentiometer
+int sensorPin = A3;    // input pin for the potentiometer
 int ledPin = 7;      // pin for the LED
 // end
 
@@ -78,7 +78,7 @@ winner.
 // hardware vars
 int leds[] = { 5, 6, 7 };
 int lengthOfLeds = 3;
-int button = 10;
+int button = 3;
 
 int odd = 1;
 int even = 2;
