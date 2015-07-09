@@ -1,4 +1,4 @@
 name: blogging-blog
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 future: false
